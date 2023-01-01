@@ -1,0 +1,10 @@
+name: Titanfall mods docs generator
+description: Generates markdown documentation for titanfall mods
+branding:
+  icon: database
+  color: green
+runs:
+  using: composite
+  steps:
+    - run: python3 $GITHUB_ACTION_PATH/generate.py
+      shell: bash
