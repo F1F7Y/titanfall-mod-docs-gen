@@ -1,6 +1,6 @@
 # titanfall-mod-docs-gen
 
-A python script which generates documentation for [Titanfall 2 + Northstar](https://northstar.tf/).
+A python script which generates documentation for [Titanfall 2 + Northstar](https://northstar.tf/) mods.
 
 ### TODO:
 - Add `@ignore` flag to ignore functions
